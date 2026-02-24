@@ -1,0 +1,5 @@
+{
+  "name": "KudiMed - Ecossistema de Saúde Inteligente",
+  "description": "Plataforma de saúde integrada para o mercado angolano, incluindo agendamento, prontuário eletrônico, marketplace de farmácias e triagem por IA.",
+  "requestFramePermissions": ["geolocation"]
+}
